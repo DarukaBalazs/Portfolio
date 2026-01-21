@@ -1,6 +1,6 @@
 # Hi there, I'm Balázs Daruka! 👋
 
-[cite_start]I am a Computer Science student at **Eötvös Loránd University** [cite: 13] with a passion for backend engineering and AI.
+I am a Computer Science student at **Eötvös Loránd University** with a passion for backend engineering and AI.
 
 ---
 
@@ -12,7 +12,6 @@ I am deeply passionate about the intersection of software development and **arti
 
 - 🔭 I’m currently working on: **Advanced Algorithms & Neural Network concepts**
 - 🎓 Studying at: **ELTE Faculty of Informatics**
-- [cite_start]⚡ Fun fact: I have a background in competitive mathematics [cite: 20] and enjoy game development in Unity.
 
 ---
 
@@ -43,17 +42,17 @@ I am deeply passionate about the intersection of software development and **arti
 ### 📂 Featured Projects
 
 #### 🧠 [Pathfinding Benchmarking Tool](LINK_A_REPOHOZ)
-[cite_start]*A performance analysis tool written in C#.* [cite: 43]
+*A performance analysis tool written in C#.*
 - **Focus:** Algorithms, Optimization, Memory Usage Analysis.
 - Designed to compare solution quality and runtime metrics across controlled scenarios.
 
 #### 🎮 [Unity Combat Game](LINK_A_REPOHOZ)
-[cite_start]*Modular 2D platform fighter.* [cite: 32, 34]
+*Modular 2D platform fighter.*
 - **Tech:** Unity, C#, State Machines.
 - Built with a focus on scalable gameplay architecture and data-driven design.
 
 #### 🕸️ [Google Maps Scraper](LINK_A_REPOHOZ)
-[cite_start]*Automated data extraction tool.* [cite: 37]
+*Automated data extraction tool.*
 - **Tech:** Python, Selenium, BeautifulSoup.
 - Handles regex processing and Excel exporting for client requirements.
 
@@ -70,6 +69,5 @@ I am deeply passionate about the intersection of software development and **arti
 
 ### 📫 Connect with me
 
-- [cite_start]**LinkedIn:** [linkedin.com/in/balazs-daruka](https://www.linkedin.com/in/balazs-daruka) [cite: 52]
-- [cite_start]**Email:** daruka.balazs01@gmail.com [cite: 8]
-- [cite_start]**Portfolio:** [github.com/DarukaBalazs/Portfolio](https://github.com/DarukaBalazs/Portfolio) [cite: 10]
+- **LinkedIn:** [linkedin.com/in/balazs-daruka](https://www.linkedin.com/in/balazs-daruka)
+- **Email:** daruka.balazs01@gmail.com
