@@ -41,7 +41,7 @@ I am deeply passionate about the intersection of software development and **arti
 
 ### 📂 Featured Projects
 
-#### 🧠 [Pathfinding Benchmarking Tool](LINK_A_REPOHOZ)
+#### 🧠 [Pathfinding Benchmarking Tool](https://github.com/DarukaBalazs/PathindingBenchmark)
 *A performance analysis tool written in C#.*
 - **Focus:** Algorithms, Optimization, Memory Usage Analysis.
 - Designed to compare solution quality and runtime metrics across controlled scenarios.
