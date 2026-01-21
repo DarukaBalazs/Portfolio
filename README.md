@@ -70,5 +70,6 @@ I am deeply passionate about the intersection of software development and **arti
 
 ### 📫 Connect with me
 
-**LinkedIn:** [linkedin.com/in/balazs-daruka](https://www.linkedin.com/in/balazs-daruka)
-**Email:** daruka.balazs01@gmail.com
+- [cite_start]**LinkedIn:** [linkedin.com/in/balazs-daruka](https://www.linkedin.com/in/balazs-daruka) [cite: 52]
+- [cite_start]**Email:** daruka.balazs01@gmail.com [cite: 8]
+- [cite_start]**Portfolio:** [github.com/DarukaBalazs/Portfolio](https://github.com/DarukaBalazs/Portfolio) [cite: 10]
