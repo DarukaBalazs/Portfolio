@@ -51,7 +51,7 @@ I am deeply passionate about the intersection of software development and **arti
 - **Tech:** Unity, C#, State Machines.
 - Built with a focus on scalable gameplay architecture and data-driven design.
 
-#### 🕸️ [Google Maps Scraper]
+#### 🕸️ [Google Maps Scraper](https://github.com/DarukaBalazs/Portfolio/blob/main/WebScraper.py)
 *Automated data extraction tool.*
 - **Tech:** Python, Selenium, BeautifulSoup.
 - Handles regex processing and Excel exporting for client requirements.
