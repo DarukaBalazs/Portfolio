@@ -46,12 +46,12 @@ I am deeply passionate about the intersection of software development and **arti
 - **Focus:** Algorithms, Optimization, Memory Usage Analysis.
 - Designed to compare solution quality and runtime metrics across controlled scenarios.
 
-#### 🎮 [Unity Combat Game](LINK_A_REPOHOZ)
+#### 🎮 [Unity Combat Game](https://play.unity.com/en/games/f75a6a6c-8e8a-4d71-9b04-6b48b55248d4/wombat-kombat)
 *Modular 2D platform fighter.*
 - **Tech:** Unity, C#, State Machines.
 - Built with a focus on scalable gameplay architecture and data-driven design.
 
-#### 🕸️ [Google Maps Scraper](LINK_A_REPOHOZ)
+#### 🕸️ [Google Maps Scraper]
 *Automated data extraction tool.*
 - **Tech:** Python, Selenium, BeautifulSoup.
 - Handles regex processing and Excel exporting for client requirements.
